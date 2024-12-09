@@ -27,6 +27,11 @@
     fastfetch   
     git 
     gnumake 
+    irssi
+    cargo
+    rustc	
+    kanata
+    wayshot
     # # It is sometimes useful to fine-tune packages, for example, by applying
     # # overrides. You can do that directly here, just don't forget the
     # # parentheses. Maybe you want to install Nerd Fonts with a limited number of
@@ -49,9 +54,8 @@
 	init.defaultBranch = "main";
 
      };
+    };
 
-
-  };
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
   # plain files is through 'home.file'.
   home.file = {
