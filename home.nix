@@ -30,6 +30,7 @@
     irssi
     cargo
     rustc	
+    rustfmt
     kanata
     wayshot
     # # It is sometimes useful to fine-tune packages, for example, by applying
